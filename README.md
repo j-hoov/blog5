@@ -16,8 +16,8 @@ This data visualization piece by Pitch Interactive uses the text of the Bible an
 
 ##### Office for Creative Research - 138 Years of Popular Science
 
-![Office for Creative Research](images/popsci2.png?raw=true "Office for Creative Research")
-![Office for Creative Research](images/popsci1.png?raw=true "Office for Creative Research")
+![Office for Creative Research](images/popsci2.PNG?raw=true "Office for Creative Research")
+![Office for Creative Research](images/popsci1.PNG?raw=true "Office for Creative Research")
 
 This visualization, made by the Office for Creative Research, was a request from the publishers of Popular Science magazine. The creators used PopSci's 138 years of published material to show how different technical and cultural terms have come in and out of use in the magazine since it began. There is great subtlety in this piece - the colors of the atoms come from the cover of the issue it refers to, and the size comes from the number of words in the issue. This visualization creates interesting overlapping and cascading word chains, using highly modern methods, but still retaining a historical, time-old feel.
 
